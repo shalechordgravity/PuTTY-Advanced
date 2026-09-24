@@ -1,0 +1,23 @@
+{
+  "repo": "putty-advanced",
+  "product": "PuTTY Advanced",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "remote-access",
+  "topics": [
+    "putty",
+    "putty-windows",
+    "remote-access-desktop",
+    "how-to-install-putty",
+    "putty-desktop-package",
+    "putty-workspace",
+    "putty-pro-tools",
+    "putty-suite",
+    "zentool-putty",
+    "putty-tool-9"
+  ],
+  "site": "zentool.art"
+}
